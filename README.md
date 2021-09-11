@@ -15,6 +15,7 @@ The test folder contains images used for validation and testing
 
 I compared this approach with retraining (using transfer learning) the google inception model and presented my results at the 2021 Sysnopsys Science Fair. The slides and video demo for the entire project are here.
 Slides:https://docs.google.com/presentation/d/1aRpopFNNnE-30FYAl1hSQEFcmB8Vcuv83PvV8kEJBDg/edit?usp=sharing
+
 Video Demo: https://youtu.be/D36C48vVtdM
 
 Credit to https://www.coursera.org/projects/facial-expression-recognition-keras for the tutorial.
