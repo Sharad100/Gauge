@@ -1,5 +1,7 @@
 # Gauge
-An app for teachers to gauge student understanding in online learning platforms
+An app for teachers to gauge student understanding in online learning platforms. 
+
+I came up with the idea during the pandemic lockdown when I observed the challenges my teachers faced teaching virtually. I presented this concept it at the HackDuke2020: Code for Good where it won 3rd Place. 
 
 This repo contains code for a convoluted neural network (CNN) that detects the seven universal facial expressions. [Anger, Disgust, Fear, Happiness, Neutral, Sadness, Fear].
 
@@ -13,7 +15,7 @@ Model.py uses the trained model along with its weights to develop predictions wh
 
 The test folder contains images used for validation and testing
 
-I compared this approach with retraining (using transfer learning) the google inception model and presented my results at the 2021 Sysnopsys Science Fair. The slides and video demo for the entire project are here.
+I compared this approach with retraining (using transfer learning) the google inception model and presented my results at the 2021 Sysnopsys Science Fair. It won 1st Place in the Physical Sciences and Engineering Category. The slides and video demo for the entire project are here.
 
 Slides:https://docs.google.com/presentation/d/1aRpopFNNnE-30FYAl1hSQEFcmB8Vcuv83PvV8kEJBDg/edit?usp=sharing
 
